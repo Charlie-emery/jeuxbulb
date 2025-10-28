@@ -25,7 +25,7 @@ To re-release your library to `bower`:
 
 1. `cd vgp-projects/<project-name>`
 2. `npm install -g bower`
-3. `bower install --save https://github.com/Charlie-emery/jeuxbulb`
+3. `bower install --save https://github.com/Charlie-emery/jeuxbulb.git`
 4. `cd ../..`
 
 
